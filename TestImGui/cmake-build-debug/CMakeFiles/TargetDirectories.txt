@@ -1,0 +1,3 @@
+/home/issaaboudi/CLionProjects/TestImGui/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/issaaboudi/CLionProjects/TestImGui/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/issaaboudi/CLionProjects/TestImGui/cmake-build-debug/CMakeFiles/TestImGui.dir

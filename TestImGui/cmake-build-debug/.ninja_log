@@ -1,0 +1,21 @@
+# ninja log v5
+1	997	1644692902663909191	CMakeFiles/TestImGui.dir/imgui/imgui_draw.cpp.o	1a1a9773f1875d52
+1731	1762	1644692642473549481	imgui/libSETUP_IMGUI.a	edab775a38fe1aa7
+1	257	1644692640969558933	imgui/CMakeFiles/SETUP_IMGUI.dir/main.cpp.o	55ca4ee23c99ae9e
+1685	1791	1644692903459904167	TestImGui	9554829bcb170635
+1	144	1644692640853559661	imgui/CMakeFiles/SETUP_IMGUI.dir/imgui_impl_glfw.cpp.o	a47c315498d832cd
+1	1113	1644692902779908458	CMakeFiles/TestImGui.dir/imgui/imgui_widgets.cpp.o	2712cd10ef72609b
+0	14	1644693198173958458	build.ninja	6221e2619ba11600
+0	251	1644692324091320769	CMakeFiles/TestImGui.dir/imgui/main.cpp.o	41f7f0586247b391
+1	1731	1644692642437549706	imgui/CMakeFiles/SETUP_IMGUI.dir/imgui.cpp.o	5125a6e7ef46b894
+1	1015	1644692641725554182	imgui/CMakeFiles/SETUP_IMGUI.dir/imgui_draw.cpp.o	48bb7854a69a6ada
+1	676	1644692641385556318	imgui/CMakeFiles/SETUP_IMGUI.dir/imgui_tables.cpp.o	d8a7ed90770233b
+1	101	1644692640813559913	imgui/CMakeFiles/SETUP_IMGUI.dir/imgui_impl_opengl3.cpp.o	c09edf8cb54456cf
+0	168	1644650863993789609	CMakeFiles/TestImGui.dir/main.cpp.o	919f928069852db4
+1	651	1644692902319911361	CMakeFiles/TestImGui.dir/imgui/imgui_tables.cpp.o	d82f79d5367c85a5
+0	1685	1644692903351904849	CMakeFiles/TestImGui.dir/imgui/imgui.cpp.o	c94b0fa96deec28a
+1	573	1644692902239911866	CMakeFiles/TestImGui.dir/imgui/imgui_demo.cpp.o	991275c9db9f109a
+0	105	1644692901775914793	CMakeFiles/TestImGui.dir/imgui/imgui_impl_opengl3.cpp.o	192fd532f1618a8e
+2	1132	1644692641841553452	imgui/CMakeFiles/SETUP_IMGUI.dir/imgui_widgets.cpp.o	a2ae12c79580c30a
+0	149	1644692901815914540	CMakeFiles/TestImGui.dir/imgui/imgui_impl_glfw.cpp.o	4c1bc538418095e2
+2	619	1644692641329556671	imgui/CMakeFiles/SETUP_IMGUI.dir/imgui_demo.cpp.o	4c9614a920578bfc
